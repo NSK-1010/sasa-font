@@ -1,0 +1,71 @@
+SplineFontDB: 3.2
+FontName: Sasa-Gothic-Regular
+FullName: Sasa-Gothic
+FamilyName: Sasa-Gothic
+Weight: Regular
+Copyright: Copyright (c) 2021, The Plain Graphics
+UComments: "2021-4-2: Created with FontForge (http://fontforge.org)"
+Version: 0.1.0
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 719 683759318 834291]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1617327968
+ModificationTime: 1617328735
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1041 "" "+ezkwtDC3MMMwrwAA"
+LangName: 1033 "" "" "Regular"
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 27 9
+BeginPrivate: 0
+EndPrivate
+BeginChars: 1114112 1
+
+StartChar: one
+Encoding: 49 49 0
+Width: 500
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+242 801 m 1
+ 350 801 l 1
+ 350 0 l 1
+ 239 0 l 1
+ 239 660 l 1
+ 62 528 l 1
+ 62 666 l 1
+ 242 801 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
